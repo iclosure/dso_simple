@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Service of menu </inf> 
+
+ -->
+
+<string>
+  <t title="服务菜单"	kword="服务">
+    <s id="0" title="开始\n用户校准"	ktype="nop"/>
+    <s id="1" title="硬件\n本机自检"	ktype="nop"/>
+    <s id="2" title="前面板\n自检"	ktype="nop"/>
+    <s id="3" title="关于\n此示波器"	ktype="nop"/>
+    <s id="4" title="用户\n校准状态"	ktype="nop"/>
+  </t>
+</string>

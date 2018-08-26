@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> FileLoad of menu </inf> 
+
+ -->
+
+<string>
+  <t title="文件加載菜單"	kword="文件加載">
+    <s id="0" title="位置"	      ktype="nop"/>
+    <s id="1" title="讀取\n文件"  ktype="nop"/>
+    <s id="2" title="删除\n文件"	ktype="nop"/>
+  </t>
+</string>

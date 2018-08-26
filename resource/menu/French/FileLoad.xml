@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> FileLoad of menu </inf> 
+
+ -->
+
+<string>
+  <t title="File Explorer Menu" kword="File Explorer">
+    <s id="0" title="Location" ktype="nop"/>
+    <s id="1" title="Load\nFile" ktype="nop"/>
+    <s id="2" title="Delete\nFile" ktype="nop"/>
+  </t>
+</string>

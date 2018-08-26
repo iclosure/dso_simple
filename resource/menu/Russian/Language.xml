@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Language of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Language Menu" kword="Language">
+    <s id="0" title="Language" ktype="text">
+      <u title="Language">
+        <o title="English" kword="English"
+           help="---"/>
+        <o title="French" kword="French"
+           help="---"/>
+        <o title="German" kword="German"
+           help="---"/>
+        <o title="Italian" kword="Italian"
+           help="---"/>
+        <o title="Japanese" kword="Japanese"
+           help="---"/>
+        <o title="Korean" kword="Korean"
+           help="---"/>
+        <o title="Portuguese" kword="Portuguese"
+           help="---"/>
+        <o title="Russian" kword="Russian"
+           help="---"/>
+        <o title="Simplified Chinese" kword="Simp Chinese"
+           help="---"/>
+        <o title="Spanish" kword="Spanish"
+           help="---"/>
+        <o title="Traditional Chinese" kword="Trad Chinese"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="Auto Set" ktype="nop"/>
+    <s id="2" title="Enter" ktype="nop"/>
+  </t>
+</string>

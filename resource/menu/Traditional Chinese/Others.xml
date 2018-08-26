@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Others of menu </inf> 
+
+ -->
+
+<string>
+  <runstatus id="0" title="自動"/>
+  <runstatus id="1" title="停止"/>
+</string>

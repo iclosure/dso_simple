@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Others of menu </inf> 
+
+ -->
+
+<string>
+  <runstatus id="0" title="Auto"/>
+  <runstatus id="1" title="stop"/>
+</string>

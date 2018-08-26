@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> PrintSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="打印配置菜单"	kword="打印配置">
+    <s id="0" title="打印至"	ktype="nop"/>
+    <s id="1" title="选项"	  ktype="text">
+      <u title="打印选项">
+        <o title="设置信息"	kword="设置信息"
+           help="---"/>
+        <o title="反转背景色"	kword="反转背景色"
+           help="---"/>
+        <o title="自动换页"	kword="自动换页"
+           help="---"/>
+        <o title="横向"	kword="横向"
+           help="---"/>
+      </u>
+    </s>
+    <s id="2" title="调色"	ktype="nop"/>
+    <s id="3" title="网格设置"	ktype="text">
+      <t title="网格设置菜单" kword="网格设置">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

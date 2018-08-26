@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> TimeSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="时间设置菜单"	kword="时间设置">
+    <s id="0" title="年" ktype="nop"/>
+    <s id="1" title="月" ktype="nop"/>
+    <s id="2" title="日" ktype="nop"/>
+    <s id="3" title="时" ktype="nop"/>
+    <s id="4" title="分" ktype="nop"/>
+    <s id="5" title="秒" ktype="nop"/>
+  </t>
+</string>

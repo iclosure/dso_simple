@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> CursorSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Cursors Menu" kword="Cursors">
+    <s id="0" title="Mode" ktype="text">
+      <u title="Mode">
+        <o title="Manual" kword="Manual"
+           help="---"/>
+        <o title="Track Waveform" kword="Track"
+           help="---"/>
+        <o title="Binary" kword="Binary"
+           help="---"/>
+        <o title="Hex" kword="Hex"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="Source" ktype="nop"/>
+    <s id="2" title="Cursors" ktype="nop"/>
+    <s id="3" title="Unit" ktype="nop">
+      <t title="Unit Menu" kword="Unit">
+        <s id="0" title="X Unit" ktype="text">
+          <u title="X Unit">
+            <o title="Second (s)" kword="Second"
+               help="---"/>
+            <o title="Hz (1/s)" kword="Hz"
+               help="---"/>
+            <o title="Phase(')" kword="Phase"
+               help="---"/>
+            <o title="Ratio (%)" kword="Ratio"
+               help="---"/>
+          </u>
+        </s>
+      </t>
+    </s>
+    <s id="1" title="Use X Cursor\nas 360'" ktype="nop"/>
+    <s id="2" title="Y Unit" ktype="text">
+      <u title="Y Unit">
+        <o title="Mode Display" kword="Mode Disp"
+           help="---"/>
+        <o title="Ratio (%)" kword="Ratio"
+           help="---"/>
+      </u>
+    </s>
+    <s id="3" title="Use Y Cursor\nas 100%" ktype="nop"/>
+  </t>
+</string>

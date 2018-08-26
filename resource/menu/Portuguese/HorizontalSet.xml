@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Horizontal of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Horizontal Menu" kword="Horizontal">
+    <s id="0" title="Time Mode" ktype="text">
+      <u title="Time Mode">
+        <o title="Normal" kword="Normal"
+           help="---"/>
+        <o title="XY" kword="XY"
+           help="---"/>
+        <o title="Roll" kword="Roll"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="Zoom" ktype="nop"/>
+    <s id="4" title="Fine" ktype="nop"/>
+    <s id="5" title="Time Ref" ktype="text">
+      <u title="Time Ref">
+        <o title="Left" kword="Left"
+           help="the time reference is set to one major division from the left edge of the display."/>
+        <o title="Center" kword="Center"
+           help="the time reference is set to the center of the display."/>
+        <o title="Right" kword="Right"
+           help="the time reference is set to one major division from the right edge of the display."/>
+      </u>
+    </s>
+  </t>
+</string>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> DigitalChannel of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Digital Channel Menu" kword="Digital Channel">
+    <s id="0" title="┌┐" ktype="nop"/>
+    <s id="1" title="Channel" ktype="nop"/>
+    <s id="2" title="Turn on\nD15 - D8" ktype="nop"/>
+    <s id="3" title="Turn on\nD7 - D0" ktype="nop"/>
+    <s id="4" title="Threshholds" ktype="nop">
+      <t title="Threshholds Menu" kword="Threshholds">
+        <s id="0" title="nop" ktype="nop"/>
+        <s id="1" title="nop" ktype="nop"/>
+      </t>
+    </s>
+    <s id="5" title="Bus" ktype="nop">
+      <t title="Digital Bus Menu" kword="Digital Bus">
+        <s id="0" title="Bus" ktype="nop"/>
+        <s id="1" title="Channel" ktype="nop"/>
+        <s id="2" title="Select\nD15 - D8" ktype="nop"/>
+        <s id="3" title="Deselect\nD7 - D0" ktype="nop"/>
+        <s id="4" title="Base" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

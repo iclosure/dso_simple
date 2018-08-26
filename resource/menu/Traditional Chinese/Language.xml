@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Language of menu </inf> 
+
+ -->
+
+<string>
+  <t title="語言設置菜單"	kword="語言設置">
+    <s id="0" title="語言"	ktype="text">
+      <u title="語言">
+        <o title="英語"	    kword="英語"
+           help="---"/>
+        <o title="法語"	    kword="法語"
+           help="---"/>
+        <o title="德語"	    kword="德語"
+           help="---"/>
+        <o title="意大利語"	kword="意大利語"
+           help="---"/>
+        <o title="日語"	    kword="日語"
+           help="---"/>
+        <o title="韓語"	    kword="韓語"
+           help="---"/>
+        <o title="葡萄牙語"	kword="葡萄牙語"
+           help="---"/>
+        <o title="俄語"	    kword="俄語"
+           help="---"/>
+        <o title="簡體中文" kword="簡體中文"
+           help="---"/>
+        <o title="西班牙語" kword="西班牙語"
+           help="---"/>
+        <o title="繁體中文"	kword="繁體中文"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="自動設置"ktype="nop"/>
+    <s id="2" title="確定"	  ktype="nop"/>
+  </t>
+</string>

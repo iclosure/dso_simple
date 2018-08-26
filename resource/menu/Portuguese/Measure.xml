@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Measure of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Measurement Menu" kword="Measurement">
+    <s id="0" title="Source" ktype="text">
+      <u title="Source">
+        <o title="Channel 1" kword="1"
+           help="---"/>
+        <o title="Channel 2" kword="2"
+           help="---"/>
+        <o title="Channel 3" kword="3"
+           help="---"/>
+        <o title="Channel 4" kword="4"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="Type:" ktype="text">
+      <u title="Measurement">
+        <i title="Volt" kword="---" help="---">
+          <o title="Peak-Peak" kword="Pk-Pk"
+             help="---"/>
+          <o title="Maximum" kword="Max"
+             help="---"/>
+          <o title="Minmum" kword="Min"
+             help="---"/>
+          <o title="Amplitude" kword="Ampl"
+             help="---"/>
+          <o title="Top" kword="Top"
+             help="---"/>
+          <o title="Base" kword="Base"
+             help="---"/>
+          <o title="Overshoot" kword="Over"
+             help="---"/>
+          <o title="Preshoot" kword="Pre"
+             help="---"/>
+          <o title="Average - N Cycles" kword="Average Nth"
+             help="---"/>
+          <o title="Average - Full Screen" kword="Average FS"
+             help="---"/>
+          <o title="DC-RMS - N Cycles" kword="DC-RMS Nth"
+             help="---"/>
+          <o title="DC-RMS - Full Screen" kword="DC-RMS FS"
+             help="---"/>
+          <o title="AC-RMS - N Cycles" kword="AC-RMS Nth"
+             help="---"/>
+          <o title="AC-RMS - Full Screen(Std Deviation)" kword="AC-RMS FS"
+             help="---"/>
+          <o title="Ratio" kword="Ratio"
+             help="---"/>
+        </i>
+        <i title="Time" kword="---" help="---">
+          <o title="Period" kword="Period"
+             help="---"/>
+          <o title="Frequency" kword="Freq"
+             help="---"/>
+          <o title="Phase" kword="Phase"
+             help="---"/>
+          <o title="+ Width" kword="+ Width"
+             help="---"/>
+          <o title="- Width" kword="- Width"
+             help="---"/>
+          <o title="Burst Width" kword="Burst Width"
+             help="---"/>
+          <o title="Duty Cycle" kword="Duty Cycle"
+             help="---"/>
+          <o title="Rise Time" kword="Rise Time"
+             help="---"/>
+          <o title="Fall Time" kword="Fall Time"
+             help="---"/>
+          <o title="X@Min" kword="X@Min"
+             help="---"/>
+          <o title="X@Max" kword="X@Max"
+             help="---"/>
+          <o title="+ Pulse Count" kword="+ Cnt"
+             help="---"/>
+          <o title="- Pulse Count" kword="- Cnt"
+             help="---"/>
+          <o title="Rise Edge" kword="Rise Edge"
+             help="---"/>
+          <o title="Fall Edge" kword="Fall Edge"
+             help="---"/>
+          <o title="Area - Cyc" kword="Area Cyc"
+             help="---"/>
+          <o title="Area - FS" kword="Area FS"
+             help="---"/>
+          <o title="Fast View" kword="All"
+             help="---"/>
+        </i>
+      </u>
+    </s>
+    <s id="2" title="Add\nMeasurement" ktype="nop"/>
+    <s id="3" title="Settings" ktype="nop">
+      <t title="Setting Menu" kword="Setting">
+        <s id="0" title="nop" ktype="nop"/>
+      </t>
+    </s>
+    <s id="4" title="Clear Meas" ktype="nop">
+      <t title="Clear Meas Menu" kword="Clear Meas">
+        <s id="0" title="Clear Meas 1\n\[None\]" ktype="nop"/>
+        <s id="1" title="Clear Meas 2\n\[None\]" ktype="nop"/>
+        <s id="2" title="Clear Meas 3\n\[None\]" ktype="nop"/>
+        <s id="3" title="Clear Meas 4\n\[None\]" ktype="nop"/>
+        <s id="4" title="Clear Meas 5\n\[None\]" ktype="nop"/>
+        <s id="5" title="Clear All" ktype="nop"/>
+      </t>
+    </s>
+    <s id="5" title="Statistics" ktype="nop">
+      <t title="Meas Statistics Menu" kword="Meas Statistics">
+        <s id="0" title="Display On" ktype="nop"/>
+        <s id="1" title="Reset\nStatistics" ktype="nop"/>
+        <s id="2" title="Transparent" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

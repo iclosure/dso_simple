@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> DisplaySet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Display Menu" kword="Display">
+    <s id="0" title="Persistence" ktype="nop"/>
+    <s id="1" title="Capture\nWaveforms" ktype="nop"/>
+    <s id="2" title="Clear\nPersistence" ktype="nop"/>
+    <s id="3" title="Clear\nDisplay" ktype="nop"/>
+    <s id="4" title="Grid" ktype="nop"/>
+  </t>
+</string>

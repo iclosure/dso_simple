@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Service of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Service Menu" kword="Service">
+    <s id="0" title="Start\nUser Cal" ktype="nop"/>
+    <s id="1" title="Hardware\nSelf Test" ktype="nop"/>
+    <s id="2" title="Front Panel\nSelf Test" ktype="nop"/>
+    <s id="3" title="About\nOscilloscope" ktype="nop"/>
+    <s id="4" title="User\nCal Status" ktype="nop"/>
+  </t>
+</string>

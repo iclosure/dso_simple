@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> SamplingSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="采样设置菜单"	kword="采样设置">
+    <s id="0" title="nop"	ktype="nop"/>
+  </t>
+</string>

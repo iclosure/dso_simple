@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> AutoScale of menu </inf> 
+
+ -->
+
+<string>
+  <t title="AutoScale Menu" kword="AutoScale">
+    <s id="0" title="Undo\nAutoScale" ktype="nop"/>
+    <s id="1" title="Fast Debug" ktype="nop"/>
+    <s id="2" title="Channels" ktype="text">
+      <u title="Channels">
+        <o title="Channel 1" kword="1"
+           help="---"/>
+        <o title="Channel 2" kword="2"
+           help="---"/>
+        <o title="Channel 3" kword="3"
+           help="---"/>
+        <o title="Channel 4" kword="4"
+           help="---"/>
+        <o title="All" kword="All"
+           help="---"/>
+      </u>
+    </s>
+    <s id="3" title="Acq Mode" ktype="text">
+      <u title="Acq Mode">
+        <o title="Normal" kword="Normal"
+           help="---"/>
+      </u>
+    </s>
+  </t>
+</string>

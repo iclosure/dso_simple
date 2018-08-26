@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> AutoScale of menu </inf> 
+ -->
+
+<string>
+  <t title="自动定标菜单"	kword="自动定标">
+    <s id="0" title="取消"	ktype="nop"/>
+    <s id="1" title="快速调试"	ktype="nop"/>
+    <s id="2" title="通道"	ktype="text">
+      <u title="通道">
+        <o title="通道 1"  kword="1"
+           help="---"/>
+        <o title="通道 2"  kword="2"
+           help="---"/>
+        <o title="通道 3"  kword="3"
+           help="---"/>
+        <o title="通道 4"  kword="4"
+            help="---"/>
+        <o title="全部"   kword="全部"
+           help="---"/>
+      </u>
+    </s>
+    <s id="3" title="采集模式"	ktype="text">
+      <u title="采集模式菜单">
+        <o title="标准"  kword="标准"
+           help="---"/>
+      </u>
+    </s>
+  </t>
+</string>

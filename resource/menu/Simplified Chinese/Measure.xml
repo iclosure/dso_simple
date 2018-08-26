@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Measure of menu </inf> 
+
+ -->
+
+<string>
+  <t title="测量类菜单"	kword="测量">
+    <s id="0" title="源"	ktype="text">
+      <u title="信号源">
+        <o title="通道 1"	kword="1"
+           help="---"/>
+        <o title="通道 2"	kword="2"
+           help="---"/>
+        <o title="通道 3"	kword="3"
+           help="---"/>
+        <o title="通道 4"	kword="4"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="类型"	ktype="text">
+      <u title="测量">
+        <i title="Volt" kword="---" help="---">
+          <o title="峰-峰值"	kword="峰-峰值"
+             help="---"/>
+          <o title="最大电平" kword="最大电平"
+             help="---"/>
+          <o title="最小电平" kword="最小电平"
+             help="---"/>
+          <o title="幅度"	kword="幅度"
+             help="---"/>
+          <o title="高值"	kword="高值"
+             help="---"/>
+          <o title="低值"	  kword="低值"
+             help="---"/>
+          <o title="过冲"	    kword="过冲"
+             help="---"/>
+          <o title="前冲"	kword="前冲"
+             help="---"/>
+          <o title="平均 - 周期"	kword="平均(Nth)"
+             help="---"/>
+          <o title="平均 - 全屏"  kword="平均(FS)"
+             help="---"/>
+          <o title="DC-RMS - 周期"  kword="DC-RMS(Nth)"
+             help="---"/>
+          <o title="DC-RMS - 全屏"	kword="DC-RMS(FS)"
+             help="---"/>
+          <o title="AC-RMS - 周期"	kword="AC-RMS(Nth)"
+             help="---"/>
+          <o title="AC-RMS - 全屏(标准差)" kword="AC-RMS(FS)"
+             help="---"/>
+          <o title="比例"	    kword="比例"
+             help="---"/>
+        </i>
+        <i title="Time" kword="---" help="---">
+          <o title="周期"	kword="周期"
+             help="---"/>
+          <o title="频率"	kword="频率"
+             help="---"/>
+          <o title="相位"	  kword="相位"
+             help="---"/>
+          <o title="+ 脉宽"	    kword="+ 脉宽"
+             help="---"/>
+          <o title="- 脉宽"	kword="- 脉宽"
+             help="---"/>
+          <o title="促发脉宽"	kword="促发脉宽"
+             help="---"/>
+          <o title="占空比"	kword="占空比"
+             help="---"/>
+          <o title="上升时间"	kword="上升时间"
+             help="---"/>
+          <o title="下降时间"	kword="下降时间"
+             help="---"/>
+          <o title="X@Min"	kword="X@Min"
+             help="---"/>
+          <o title="X@Max"	kword="X@Max"
+             help="---"/>
+          <o title="+ 脉冲计数"	kword="+ 脉冲计数"
+             help="---"/>
+          <o title="- 脉冲计数"	kword="- 脉冲计数"
+             help="---"/>
+          <o title="上升沿"	kword="上升沿"
+             help="---"/>
+          <o title="下降沿"	kword="下降沿"
+             help="---"/>
+          <o title="区域 - 周期"	kword="区域(Nth)"
+             help="---"/>
+          <o title="区域 - 全屏"	kword="区域(FS)"
+             help="---"/>
+          <o title="快照"	kword="快照"
+             help="---"/>
+        </i>
+      </u>
+    </s>
+    <s id="2" title="添加测量值"	ktype="nop"/>
+    <s id="3" title="设置"	ktype="nop">
+      <t title="设置菜单" kword="设置">
+        <s id="0" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="4" title="清除测量值"	ktype="nop">
+      <t title="清除测量值菜单" kword="清除测量值">
+        <s id="0" title="清除测量值1\n\[None\]"	ktype="nop"/>
+        <s id="1" title="清除测量值2\n\[None\]"	ktype="nop"/>
+        <s id="2" title="清除测量值3\n\[None\]"	ktype="nop"/>
+        <s id="3" title="清除测量值4\n\[None\]"	ktype="nop"/>
+        <s id="4" title="清除测量值5\n\[None\]"	ktype="nop"/>
+        <s id="5" title="清除全部"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="5" title="统计信息"	ktype="nop">
+      <t title="统计信息菜单" kword="统计信息">
+        <s id="0" title="显示"	ktype="nop"/>
+        <s id="1" title="复位\n统计信息"	ktype="nop"/>
+        <s id="2" title="透明"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

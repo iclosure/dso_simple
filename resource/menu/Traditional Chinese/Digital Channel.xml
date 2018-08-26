@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> DigitalChannel of menu </inf> 
+
+ -->
+
+<string>
+  <t title="數字通道菜單"	kword="數字通道">
+    <s id="0" title="┌┐"	ktype="nop"/>
+    <s id="1" title="通道"	ktype="nop"/>
+    <s id="2" title="打開\nD15 - D8"	ktype="nop"/>
+    <s id="3" title="關閉\nD7 - D0"	ktype="nop"/>
+    <s id="4" title="閘門"	      ktype="nop">
+      <t title="閘門菜單"	kword="閘門">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="5" title="數字總線" ktype="nop">
+      <t title="數字總線設置菜單"	kword="數字總線設置">
+        <s id="0" title="數字總線"	ktype="nop"/>
+        <s id="1" title="通道"	ktype="nop"/>
+        <s id="2" title="選擇通道"	ktype="nop"/>
+        <s id="3" title="取消通道"	ktype="nop"/>
+        <s id="4" title="進制顯示"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

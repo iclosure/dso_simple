@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> SamplingSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="採樣設置菜單"	kword="採樣設置">
+    <s id="0" title="nop"	ktype="nop"/>
+  </t>
+</string>

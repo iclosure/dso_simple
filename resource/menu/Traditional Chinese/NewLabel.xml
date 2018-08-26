@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> NewLabel of menu </inf> 
+
+ -->
+
+<string>
+  <t title="新標籤菜單"	kword="新標籤">
+    <s id="0" title="通道"	ktype="text">
+      <u title="通道">
+        <o title="1：FILT"	kword="FILT"
+           help="---"/>
+        <o title="2：DAC_OUT"	kword="DAC_OUT"
+           help="---"/>
+        <o title="3：3"	kword="3"
+           help="---"/>
+        <o title="4：4"	kword="4"
+           help="---"/>
+        <o title="數學函數: f(t): F1"	kword="f(t): F1"
+           help="---"/>
+        <o title="參考波形1：REF1"	kword="REF1"
+           help="---"/>
+        <o title="參考波形2：REF2"	kword="REF2"
+           help="---"/>
+        <o title="D7：D7"	kword="D7"
+           help="---"/>
+        <o title="D6：D6"	kword="D6"
+           help="---"/>
+        <o title="D5：D5"	kword="D5"
+           help="---"/>
+        <o title="D4：D4"	kword="D4"
+           help="---"/>
+        <o title="D3：D3"	kword="D3"
+           help="---"/>
+        <o title="D2：D2"	kword="D2"
+           help="---"/>
+        <o title="D1：D1"	kword="D1"
+           help="---"/>
+        <o title="D0：D0"	kword="D0"
+           help="---"/>
+        <o title="FILT"	kword="FILT"
+           help="---"/>
+        <o title="數字總線1：DAC_IN"	kword="DAC_IN"
+           help="---"/>
+        <o title="數字總線2：BUS2"	kword="BUS2"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="拼寫"	ktype="nop"/>
+    <s id="2" title="回車"	ktype="nop"/>
+    <s id="3" title="删除\n字段"	ktype="nop"/>
+    <s id="4" title="應用新\n標籤"	ktype="nop"/>
+    <s id="5" title="庫"	ktype="nop"/>
+  </t>
+</string>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Lister of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Lister Menu" kword="Lister">
+    <s id="0" title="Display" ktype="nop"/>
+    <s id="1" title="Scroll"  ktype="nop"/>
+    <s id="2" title="Zoom to\nSelection" ktype="nop"/>
+    <s id="3" title="Undo\nZoom" ktype="nop"/>
+    <s id="4" title="Option" ktype="nop">
+      <t title="Lister Option Menu" kword="Lister Option">
+        <s id="0" title="Search" ktype="nop"/>
+        <s id="1" title="Search for" ktype="text">
+          <u title="Search for">
+            <o title="CAN" kword="CAN"
+               help="---"/>
+            <o title="I2C" kword="I2C"
+               help="---"/>
+            <o title="I2S" kword="I2S"
+               help="---"/>
+            <o title="LIN" kword="LIN"
+               help="---"/>
+            <o title="SPI" kword="SPI"
+               help="---"/>
+            <o title="UART/RS232" kword="UART/RS232"
+               help="---"/>
+          </u>
+        </s>
+        <s id="2" title="Scroll" ktype="nop"/>
+        <s id="3" title="Data is" ktype="nop"/>
+        <s id="4" title="Data" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> WaveformGen of menu </inf> 
+
+ -->
+
+<string>
+  <t title="波形發生器菜單"	kword="波形發生器">
+    <s id="0" title="波形"	ktype="text">
+      <u title="波形">
+        <o title="正弦波"	kword="正弦波"
+           help="---"/>
+        <o title="方波"	kword="方波"
+           help="---"/>
+        <o title="鋸齒波"	kword="鋸齒波"
+           help="---"/>
+        <o title="脉衝"	kword="脉衝"
+           help="---"/>
+        <o title="DC"	kword="DC"
+           help="---"/>
+        <o title="噪聲"	kword="噪聲"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="頻率"	ktype="text">
+      <u title="頻率">
+        <o title="頻率"	kword="頻率"
+           help="---"/>
+        <o title="頻率微調"	kword="頻率微調"
+           help="---"/>
+        <o title="週期"	kword="週期"
+           help="---"/>
+        <o title="週期微調"	kword="週期微調"
+           help="---"/>
+      </u>
+    </s>
+    <s id="2" title="幅度"	ktype="text">
+      <u title="幅度">
+        <o title="幅度"	kword="幅度"
+           help="---"/>
+        <o title="幅度微調"	kword="幅度微調"
+           help="---"/>
+        <o title="週期"	kword="週期"
+           help="---"/>
+        <o title="低電平"	kword="低電平"
+           help="---"/>
+        <o title="高電平"	kword="高電平"
+           help="---"/>
+      </u>
+    </s>
+    <s id="3" title="偏移"	ktype="text">
+      <u title="偏移">
+        <o title="低電平"	kword="低電平"
+           help="---"/>
+        <o title="高電平"	kword="高電平"
+           help="---"/>
+      </u>
+    </s>
+    <s id="5" title="設置"	ktype="nop">
+      <t title="波形發生器設置菜單" kword="波形發生器設置">
+        <s id="0" title="觸發輸出"	ktype="nop"/>
+        <s id="1" title="輸出負載"	ktype="nop"/>
+        <s id="2" title="邏輯\n預設值"	ktype="nop"/>
+        <s id="5" title="缺省\n波形發生器"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

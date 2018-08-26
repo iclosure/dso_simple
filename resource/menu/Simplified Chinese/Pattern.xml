@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Pattern of menu </inf> 
+
+ -->
+
+<string>
+  <t title="码型设置菜单"	kword="码型设置">
+    <s id="0" title="触发"	ktype="nop"/>
+    <s id="1" title="时间限制"	ktype="nop"/>
+    <s id="2" title="通道"	ktype="nop"/>
+    <s id="3" title="数字"	ktype="nop"/>
+    <s id="4" title="16进制"	ktype="nop"/>
+    <s id="5" title="设置所有\nDigit"	ktype="nop"/>
+  </t>
+</string>

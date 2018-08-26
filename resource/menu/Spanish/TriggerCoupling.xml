@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> TriggerCoupling of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Trigger Mode and Coupling Menu" kword="Mode/Coupling">
+    <s id="0" title="Mode" ktype="nop"/>
+    <s id="1" title="Coupling" ktype="nop"/>
+    <s id="2" title="Noise Rej" ktype="nop"/>
+    <s id="3" title="HF Reject" ktype="nop"/>
+    <s id="4" title="Holdoff" ktype="nop"/>
+    <s id="5" title="External" ktype="nop">
+      <t title="External Trigger Menu: 10.0:1" kword="Exter Trigger">
+        <s id="0" title="Units" ktype="nop"/>
+        <s id="1" title="Probe" ktype="nop"/>
+        <s id="2" title="Skew"  ktype="nop"/>
+        <s id="3" title="Probe" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

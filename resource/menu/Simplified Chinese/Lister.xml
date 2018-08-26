@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Lister of menu </inf> 
+
+ -->
+
+<string>
+  <t title="列表程序菜单"	kword="列表程序">
+    <s id="0" title="显示"	ktype="nop"/>
+    <s id="1" title="滚动"	ktype="nop"/>
+    <s id="2" title="缩放为"	ktype="nop"/>
+    <s id="3" title="撤销"	ktype="nop"/>
+    <s id="4" title="选项"	ktype="nop">
+      <t title="列表程序选项菜单" kword="列表程序选项">
+        <s id="0" title="搜索"	    ktype="nop"/>
+        <s id="1" title="搜索对象"	ktype="text">
+          <u title="搜索对象">
+            <o title="CAN"	kword="CAN"
+               help="---"/>
+            <o title="I2C"	kword="I2C"
+               help="---"/>
+            <o title="I2S"  kword="I2S"
+               help="---"/>
+            <o title="LIN"	kword="LIN"
+               help="---"/>
+            <o title="SPI"	kword="SPI"
+               help="---"/>
+            <o title="UART/RS232" kword="UART/RS232"
+               help="---"/>
+          </u>
+        </s>
+      </t>
+    </s>
+    <s id="2" title="滚动"	ktype="nop"/>
+    <s id="3" title="数据为"	ktype="nop"/>
+    <s id="4" title="数据"	  ktype="nop"/>
+  </t>
+</string>

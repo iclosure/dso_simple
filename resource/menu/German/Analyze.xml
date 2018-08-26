@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Analyze of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Analyze Menu" kword="Analyze">
+    <s id="0" title="Features" ktype="nop">
+      <u title="Features">
+		    <o title="Trigger Levels" kword="Trig Levels"
+           help="---"/>
+		    <o title="Measurement Thresholds" kword="Meas Thresh"
+           help="---"/>
+		    <o title="Mask Test" kword="Mask Test"
+           help="---">
+			    <t title="Automask Menu" kword="Automask">
+			      <s id="1" title="Source" ktype="nop"/>
+			      <s id="2" title="Units"  ktype="nop"/>
+			      <s id="3" title="±Y"    ktype="nop"/>
+			      <s id="4" title="±X"    ktype="nop"/>
+			      <s id="5" title="Create" ktype="nop"/>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="1" title="Statistics" ktype="nop">
+	    <t title="Mask Statistics Menu" kword="Mask Statistics">
+	      <s id="0" title="Show\nStats"       ktype="nop"/>
+	      <s id="1" title="Reset\nStatistics" ktype="nop"/>
+	      <s id="2" title="Transparent"       ktype="nop"/>
+	      <s id="3" title="Clear\nDisplay"    ktype="nop"/>
+      </t>
+    </s>
+    <s id="2" title="Setting" ktype="nop">
+	    <t title="Setting Menu" kword="Setting">
+	      <s id="0" title="nop" ktype="nop"/>
+	      <s id="1" title="nop" ktype="nop"/>
+      </t>
+    </s>
+    <s id="3" title="Auto Mode" ktype="nop">
+	    <t title="Auto Mode Menu" kword="Auto Mode">
+	      <s id="0" title="nop" ktype="nop"/>
+	      <s id="1" title="nop" ktype="nop"/>
+      </t>
+    </s>
+    <s id="4" title="Clear Mask" ktype="nop"/>
+  </t>
+</string>

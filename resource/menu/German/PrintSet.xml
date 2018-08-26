@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> PrintSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Print Configuration Menu" kword="Print Config">
+    <s id="0" title="Print to" ktype="nop"/>
+    <s id="1" title="Options" ktype="text">
+      <u title="Print Options">
+        <o title="Setup Infomation" kword="Setup Info"
+           help="---"/>
+        <o title="Invert Graticule" kword="Invert Graticule"
+           help="---"/>
+        <o title="Form Feed" kword="Form Feed"
+           help="---"/>
+        <o title="Landscape" kword="Landscape"
+           help="---"/>
+      </u>
+    </s>
+    <s id="2" title="Palette Color" ktype="nop"/>
+    <s id="3" title="Network Setup" ktype="text">
+      <t title="Network Setup Menu" kword="Network Setup">
+        <s id="0" title="nop" ktype="nop"/>
+        <s id="1" title="nop" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

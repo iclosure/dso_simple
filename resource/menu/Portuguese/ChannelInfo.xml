@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> ChannelInfo of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Channel 1 Menu" kword="Channel 1">
+    <s id="0" title="Coupling" ktype="nop"/>
+    <s id="1" title="Imped"    ktype="nop"/>
+    <s id="2" title="BW Limit" ktype="nop"/>
+    <s id="3" title="Fine"     ktype="nop"/>
+    <s id="4" title="Invert"   ktype="nop"/>
+    <s id="5" title="Probe"    ktype="nop">
+      <t title="Channel 1 Probe Menu: 10.0:1" kword="Channel 1 Probe">
+        <s id="0" title="Unit" ktype="text">
+          <u title="Units">
+            <o title="Volts" kword="Volts"
+               help="for a voltage probe."/>
+            <o title="Amps" kword="Amps"
+               help="for a current probe."/>
+          </u>
+        </s>
+        <s id="1" title="Probe" ktype="text">
+          <u title="Probe">
+            <o title="10:1 single-ended browser(no attenuator)"
+               kword="single"
+               help="---"/>
+            <o title="10:1 differential browser(no attenuator)"
+               kword="diff"
+               help="---"/>
+            <o title="10:1 (+6 dB Atten) single-ended browser"
+               kword="+6 single"
+               help="---"/>
+            <o title="10:1 (+6 dB Atten) differential browser"
+               kword="+6 diff"
+               help="---"/>
+            <o title="10:1 (+12 dB Atten) single-ended browser"
+               kword="+12 single"
+               help="---"/>
+            <o title="10:1 (+12 dB Atten) differential browser"
+               kword="+12 diff"
+               help="---"/>
+            <o title="10:1 (+20 dB Atten) single-ended browser"
+               kword="+20 single"
+               help="---"/>
+            <o title="10:1 (+20 dB Atten) differential browser"
+               kword="+20 diff"
+               help="---"/>
+          </u>
+        </s>
+        <s id="3" title="Skew" ktype="nop"/>
+        <s id="4" title="Probe\nCheck" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> ScreenSaverSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="屏幕保护设置菜单"	kword="屏幕保护设置">
+    <s id="0" title="屏保设置"	ktype="nop"/>
+    <s id="1" title="等待时间"	ktype="nop"/>
+    <s id="2" title="屏保预览"	ktype="nop"/>
+  </t>
+</string>

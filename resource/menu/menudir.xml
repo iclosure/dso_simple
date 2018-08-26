@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ [dir] menudir [/dir]
+
+ -->
+
+<string>
+  <l id="0" language="English"/>
+  <l id="1" language="French"/>
+  <l id="2" language="German"/>
+  <l id="3" language="Italian"/>
+  <l id="4" language="Japanese"/>
+  <l id="5" language="Korean"/>
+  <l id="6" language="Portuguese"/>
+  <l id="7" language="Russian"/>
+  <l id="8" language="Simplified Chinese"/>
+  <l id="9" language="Spanish"/>
+  <l id="10" language="Traditional Chinese"/>
+</string>

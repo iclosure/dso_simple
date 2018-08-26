@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> ReferWaveform of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Reference Menu" kword="Reference">
+    <s id="0" title="Display Ref:" ktype="nop"/>
+    <s id="1" title="Source" ktype="nop"/>
+    <s id="2" title="Save to" ktype="nop"/>
+    <s id="3" title="Clear" ktype="nop"/>
+    <s id="4" title="Skew" ktype="nop"/>
+    <s id="5" title="Option" ktype="nop">
+      <t title="non Menu" kword="nop">
+        <s id="0" title="nop" ktype="nop"/>
+        <s id="1" title="nop" ktype="nop"/>
+        <s id="2" title="nop" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

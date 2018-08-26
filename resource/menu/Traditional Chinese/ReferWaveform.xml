@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> ReferWaveform of menu </inf> 
+
+ -->
+
+<string>
+  <t title="參考波形菜單"	kword="參考波形">
+    <s id="0" title="顯示Ref："	ktype="nop"/>
+    <s id="1" title="源"	ktype="nop"/>
+    <s id="2" title="保存至"	ktype="nop"/>
+    <s id="3" title="清除"	ktype="nop"/>
+    <s id="4" title="時差"	ktype="nop"/>
+    <s id="5" title="選項"	ktype="nop">
+      <t title="選項菜单" kword="選項">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+        <s id="2" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

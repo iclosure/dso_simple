@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> TriggerCoupling of menu </inf> 
+
+ -->
+
+<string>
+  <t title="触发模式和耦合菜单"	kword="触发模式和耦合">
+    <s id="0" title="触发模式"	ktype="nop"/>
+    <s id="1" title="耦合"	ktype="nop"/>
+    <s id="2" title="噪声抑制"	ktype="nop"/>
+    <s id="3" title="高频抑制"	ktype="nop"/>
+    <s id="4" title="释抑"	ktype="nop"/>
+    <s id="5" title="外部"	ktype="nop">
+      <t title="外接触发菜单：10.0:1" kword="外接触发">
+        <s id="0" title="单位"	ktype="nop"/>
+        <s id="1" title="探头"	ktype="nop"/>
+        <s id="2" title="时滞"	ktype="nop"/>
+        <s id="3" title="探头"	ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

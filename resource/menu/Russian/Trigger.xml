@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Trigger of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Trigger Menu" kword="Trigger">
+    <s id="0" title="Trigger" ktype="text">
+      <u title="Trigger">
+        <o title="Edge" kword="Edge"
+           help="---"/>
+        <o title="Rise/Fall" kword="Rise/Fall"
+           help="---"/>
+        <o title="Nth Edge" kword="Nth Edge"
+           help="---"/>
+        <o title="Runt" kword="Runt"
+           help="---"/>
+        <o title="Set and Hold" kword="Set and Hold"
+           help="---"/>
+        <o title="USB" kword="USB"
+           help="---"/>
+        <o title="Pulse Width" kword="Pulse Width"
+           help="---">
+          <t title="Trigger Menu" kword="Trigger">
+            <s id="2" title="┌┐  └┘" ktype="nop"/>
+            <s id="3" title="\[   \]   X" ktype="nop"/>
+            <s id="4" title="\[" ktype="nop"/>
+            <s id="5" title="\]" ktype="nop"/>
+          </t>
+        </o>
+        <o title="Video" kword="Video"
+           help="---">
+          <t title="Video Trigger Menu" kword="Video Trigger">
+            <s id="2" title="Standard" ktype="nop"/>
+            <s id="3" title="Mode" ktype="nop"/>
+            <s id="4" title="Line#" ktype="nop"/>
+            <s id="5" title="Field Holdoff" ktype="nop"/>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="1" title="Source" ktype="text">
+      <u title="Source">
+        <o title="Analog channel" kword="Analog channel"
+           help="1 through 2 channel."/>
+        <o title="Digital channel" kword="Digital channel"
+           help="D0 through Dn."/>
+        <o title="External" kword="External"
+           help="External trigger input."/>
+        <o title="Line#" kword="Line#"
+           help="Line trigger."/>
+        <o title="WaveGen" kword="WaveGen"
+           help="Waveform generator."/>
+      </u>
+    </s>
+    <s id="2"  title="Slope" ktype="micn">
+      <u title="Slope">
+        <o title="(Rising)" kword="---"
+           help="1 through 2 channel."/>
+        <o title="(Falling)" kword="---"
+           help="D0 through Dn."/>
+        <o title="(Alternating)" kword="---"
+           help="External trigger input."/>
+        <o title="(Either)" kword="---"
+           help="Line trigger."/>
+      </u>
+    </s>
+  </t>
+</string>

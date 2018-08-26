@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> WaveformMath of menu </inf> 
+
+ -->
+
+<string>
+  <t title="波形数学函数菜单"	kword="波形数学函数">
+    <s id="0" title="数学函数"	ktype="nop"/>
+    <s id="1" title="算子"	ktype="text">
+      <u title="算子">
+        <o title="+ - 加"	kword="+"
+           help="---"/>
+        <o title="- - 减"	kword="-"
+           help="---"/>
+        <o title="* - 乘"	kword="*"
+           help="---"/>
+        <o title="/ - 除"	kword="/"
+           help="---"/>
+        <o title="d/dt - 求微分"	kword="d/dt"
+           help="---"/>
+        <o title="∫dt - 求积分"	kword="∫dt"
+           help="---"/>
+        <o title="√ - 平方根"	kword="√"
+           help="---"/>
+        <o title="FFT - FFT测量"	kword="FFT"
+           help="---">
+          <t title="波形数学函数菜单" kword="波形数学函数">
+            <s id="4" title="预设"	ktype="nop"/>
+            <s id="5" title="更多FFT"	ktype="nop">
+              <t title="更多FFT设置菜单" kword="更多FFT设置">
+                <s id="0" title="窗函数"	ktype="text">
+                  <u title="窗函数">
+                    <o title="Rectangular - 矩形窗"	kword="矩形窗"
+                       help="---"/>
+                    <o title="Triangular - 三角窗"	kword="三角窗"
+                       help="---"/>
+                    <o title="Hanning - 汉宁窗"	kword="汉宁窗"
+                       help="---"/>
+                    <o title="Hamming - 汉明窗"	kword="汉明窗"
+                       help="---"/>
+                    <o title="Flat Top - 平顶窗"	kword="平顶窗"
+                       help="---"/>
+                    <o title="Blackman Harris - 布莱克曼-哈维窗" kword="布莱克曼-哈维窗"
+                       help="---"/>
+                    <o title="Kaiser - 凯赛尔窗"	kword="凯赛尔窗"
+                       help="---"/>
+                  </u>
+                </s>
+                <s id="1" title="频率范围"	ktype="nop"/>
+                <s id="2" title="中心频率"	ktype="nop"/>
+                <s id="4" title="定标"	ktype="nop"/>
+                <s id="5" title="偏移"	ktype="nop"/>
+              </t>
+            </s>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="2" title="函数源 1"	ktype="nop"/>
+    <s id="3" title="函数源 2"	ktype="nop"/>
+    <s id="4" title="定标"	    ktype="nop"/>
+    <s id="5" title="偏移"	  ktype="nop"/>
+  </t>
+</string>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> ChannelInfo of menu </inf> 
+
+ -->
+
+<string>
+  <t title="通道 1 菜单" kword="通道 1">
+    <s id="0" title="耦合"  ktype="nop"/>
+    <s id="1" title="阻抗"     ktype="nop"/>
+    <s id="2" title="带宽限制"  ktype="nop"/>
+    <s id="3" title="微调"      ktype="nop"/>
+    <s id="4" title="倒置"    ktype="nop"/>
+    <s id="5" title="探头"     ktype="nop">
+      <t title="通道1探头菜单：10.0:1" kword="通道 1 探头">
+        <s id="0" title="单位" ktype="text">
+          <u title="单位">
+            <o title="伏特" kword="伏特"
+               help="对于电压探头。"/>
+            <o title="安培"  kword="安培"
+               help="对于电流探头。"/>
+          </u>
+        </s>
+        <s id="1" title="探头" ktype="text">
+          <u title="探头">
+            <o title="10:1 单端浏览器（无衰减器）" kword="单端"
+               help="---"/>
+            <o title="10:1 差分浏览器（无衰减器）" kword="差分"
+               help="---"/>
+            <o title="10:1 (+6 dB Atten) 单端浏览器"  kword="+6 单端"
+               help="---"/>
+            <o title="10:1 (+6 dB Atten) 差分浏览器"  kword="+6 差分"
+               help="---"/>
+            <o title="10:1 (+12 dB Atten) 单端浏览器" kword="+12 单端"
+               help="---"/>
+            <o title="10:1 (+12 dB Atten) 差分浏览器" kword="+12 差分"
+               help="---"/>
+            <o title="10:1 (+20 dB Atten) 单端浏览器" kword="+20 单端"
+               help="---"/>
+            <o title="10:1 (+20 dB Atten) 差分浏览器" kword="+20 差分"
+               help="---"/>
+          </u>
+        </s>
+        <s id="3" title="时滞"     ktype="nop"/>
+        <s id="4" title="探头检查" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

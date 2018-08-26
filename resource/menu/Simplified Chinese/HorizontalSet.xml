@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Horizontal of menu </inf> 
+
+ -->
+
+<string>
+  <t title="水平设置菜单"	kword="水平设置">
+    <s id="0" title="时基模式"	ktype="text">
+      <u title="时基模式">
+        <o title="标准"	kword="标准"
+           help="---"/>
+        <o title="XY"	kword="XY"
+           help="---"/>
+        <o title="滚动" kword="滚动"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="缩放"	ktype="nop"/>
+    <s id="4" title="微调"	ktype="nop"/>
+    <s id="5" title="时间参数"	ktype="text">
+      <u title="时间参数">
+        <o title="左侧"	kword="左侧"
+           help="从显示屏左边沿，时间参考点设置为一个主要格。"/>
+        <o title="居中"	kword="居中"
+           help="时间参考点设置为显示屏中心。"/>
+        <o title="右侧" kword="右侧"
+           help="从显示屏右边沿，时间参考点设置为一个主要格。"/>
+      </u>
+    </s>
+  </t>
+</string>

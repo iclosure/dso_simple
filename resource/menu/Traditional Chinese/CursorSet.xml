@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> CursorSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="光標設置菜單"	kword="光標設置">
+    <s id="0" title="模式" ktype="text">
+      <u title="模式">
+        <o title="手動"	    kword="手動"
+           help="---"/>
+        <o title="追蹤波形"	kword="追蹤波形"
+           help="---"/>
+        <o title="二進制"	  kword="二進制"
+           help="---"/>
+        <o title="十六進制" kword="十六進制"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="源" ktype="nop"/>
+    <s id="2" title="光標" ktype="nop"/>
+    <s id="3" title="單位" ktype="nop">
+      <t title="單位菜單" kword="單位">
+        <s id="0" title="X 單位" ktype="text">
+          <u title="X 單位">
+            <o title="秒（s）"	   kword="秒"
+               help="---"/>
+            <o title="赫兹（1/s）" kword="赫兹"
+               help="---"/>
+            <o title="相位(°)"	  kword="相位"
+               help="---"/>
+            <o title="比例（%）"	kword="比例"
+               help="---"/>
+          </u>
+        </s>
+        <s id="1" title="使用 X 光標\n作為360°" ktype="nop"/>
+        <s id="2" title="Y 單位" ktype="text">
+          <u title="Y 單位">
+            <o title="進制顯示"	kword="进制显示"
+               help="---"/>
+            <o title="比例（%）"	  kword="比例"
+               help="---"/>
+          </u>
+        </s>
+        <s id="3" title="使用 Y 光標\n作為100%" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

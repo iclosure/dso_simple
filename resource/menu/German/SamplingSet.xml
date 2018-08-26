@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> SamplingSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Sampling Set Menu" kword="Sampling Set">
+    <s id="0" title="nop" ktype="nop"/>
+  </t>
+</string>

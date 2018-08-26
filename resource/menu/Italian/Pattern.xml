@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> Pattern of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Pattern Menu" kword="Pattern">
+    <s id="0" title="Trigger" ktype="nop"/>
+    <s id="1" title="Qualifier" ktype="nop"/>
+    <s id="2" title="Channel" ktype="nop"/>
+    <s id="3" title="Digit" ktype="nop"/>
+    <s id="4" title="Hex" ktype="nop"/>
+    <s id="5" title="Set all\nDigits" ktype="nop"/>
+  </t>
+</string>

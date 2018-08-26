@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Trigger of menu </inf> 
+
+ -->
+
+<string>
+  <t title="触发菜单"	kword="触发">
+    <s id="0" title="触发"	ktype="text">
+      <u title="触发">
+        <o title="边沿"	kword="边沿"
+           help="---"/>
+        <o title="上升/下降"	kword="上升/下降"
+           help="---"/>
+        <o title="第N边沿" kword="第N边沿"
+           help="---"/>
+        <o title="矮小脉冲"	kword="矮小脉冲"
+           help="---"/>
+        <o title="设置和保持"	kword="设置和保持"
+           help="---"/>
+        <o title="USB" kword="USB"
+           help="---"/>
+        <o title="脉冲宽度"	kword="脉冲宽度"
+           help="---">
+          <t title="脉冲宽度触发菜单" kword="脉冲宽度触发">
+            <s id="2" title="┌┐  └┘"	ktype="nop"/>
+            <s id="3" title="\[   \]   X"	ktype="nop"/>
+            <s id="4" title="\["	ktype="nop"/>
+            <s id="5" title="\]"	ktype="nop"/>
+          </t>
+        </o>
+        <o title="视频"	kword="视频"
+           help="---">
+          <t title="视频触发菜单" kword="视频触发">
+            <s id="2" title="标准"	ktype="nop"/>
+            <s id="3" title="模式"	ktype="nop"/>
+            <s id="4" title="行#"	ktype="nop"/>
+            <s id="5" title="场释抑"	ktype="nop"/>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="1" title="源"	ktype="text">
+      <u title="源">
+        <o title="模拟通道"	kword="模拟通道"
+           help="---"/>
+        <o title="数字通道"	kword="数字通道"
+           help="---"/>
+        <o title="外部" kword="外部"
+           help="---"/>
+        <o title="行#"	kword="行#"
+           help="---"/>
+        <o title="波形发生器"	kword="波形发生器"
+           help="---"/>
+      </u>
+    </s>
+    <s id="2" title="斜率"	ktype="micn">
+      <u title="斜率">
+        <o title="（上升沿）"	kword="---"
+           help="---"/>
+        <o title="（下降沿）"	kword="---"
+           help="---"/>
+        <o title="（交变沿）" kword="---"
+           help="---"/>
+        <o title="（任一沿）"	kword="---"
+           help="---"/>
+      </u>
+    </s>
+  </t>
+</string>

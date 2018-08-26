@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ [f] menu file [/f]
+
+ -->
+
+<string>
+  <m id="0" file="Analyze"/>
+  <m id="1" file="AutoScale"/>
+  <m id="2" file="ChannelInfo"/>
+  <m id="3" file="CursorSet"/>
+  <m id="4" file="Digital Channel"/>
+  <m id="5" file="DisplaySet"/>
+  <m id="6" file="FileLoad"/>
+  <m id="7" file="HorizontalSet"/>
+  <m id="8" file="Language"/>
+  <m id="9" file="Lister"/>
+  <m id="10" file="Measure"/>
+  <m id="11" file="NewLabel"/>
+  <m id="12" file="Pattern"/>
+  <m id="13" file="PrintSet"/>
+  <m id="14" file="ReferWaveform"/>
+  <m id="15" file="SamplingSet"/>
+  <m id="16" file="ScreenSaverSet"/>
+  <m id="17" file="Service"/>
+  <m id="18" file="TimeSet"/>
+  <m id="19" file="Trigger"/>
+  <m id="20" file="TriggerCoupling"/>
+  <m id="21" file="WaveformGen"/>
+  <m id="22" file="WaveformMath"/>
+  <o id="0" file="Others"/>
+</string>

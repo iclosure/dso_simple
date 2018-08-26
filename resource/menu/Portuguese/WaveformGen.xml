@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> WaveformGen of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Waveform Generator Menu" kword="WaveformGen">
+    <s id="0" title="Waveform" ktype="text">
+      <u title="Waveform">
+        <o title="Sine" kword="Sine"
+           help="---"/>
+        <o title="Square" kword="Square"
+           help="---"/>
+        <o title="Ramp" kword="Ramp"
+           help="---"/>
+        <o title="Pulse" kword="Pulse"
+           help="---"/>
+        <o title="DC" kword="DC"
+           help="---"/>
+        <o title="Noise" kword="Noise"
+           help="---"/>
+      </u>
+    </s>
+    <s id="1" title="Frequency" ktype="text">
+      <u title="Frequency">
+        <o title="Frequency" kword="Freq"
+           help="---"/>
+        <o title="Frequency Fine" kword="Freq Fine"
+           help="---"/>
+        <o title="Period" kword="Period"
+           help="---"/>
+        <o title="Period Fine" kword="Period Fine"
+           help="---"/>
+      </u>
+    </s>
+    <s id="2" title="Amplitude" ktype="text">
+      <u title="Amplitude">
+        <o title="Amplitude" kword="Amplitude"
+           help="---"/>
+        <o title="Amplitude Fine" kword="Amp Fine"
+           help="---"/>
+        <o title="Period" kword="Period"
+           help="---"/>
+        <o title="Low-Level" kword="Low"
+           help="---"/>
+        <o title="High-Level" kword="High"
+           help="---"/>
+      </u>
+    </s>
+    <s id="3" title="Offset" ktype="text">
+      <u title="Offset">
+        <o title="Low-Level" kword="Low"
+           help="---"/>
+        <o title="High-Level" kword="High"
+           help="---"/>
+      </u>
+    </s>
+    <s id="5" title="Settings" ktype="nop">
+      <t title="Waveform Generator Settings Menu" kword="WaveformGen Setting">
+        <s id="0" title="Trig Out" ktype="nop"/>
+        <s id="1" title="Output Load" ktype="nop"/>
+        <s id="2" title="Logic\nPresets" ktype="nop"/>
+        <s id="5" title="Default\nWave Gen" ktype="nop"/>
+      </t>
+    </s>
+  </t>
+</string>

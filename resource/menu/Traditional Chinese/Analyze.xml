@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Analyze of menu </inf> 
+
+ -->
+
+<string>
+  <t title="分析菜單"	kword="分析">
+    <s id="0" title="功能"	ktype="text">
+      <u title="功能">
+        <o title="觸發電平"	kword="觸發電平"
+           help="---"/>
+        <o title="測量閾值"	kword="測量閾值"
+           help="---"/>
+        <o title="模板測試" kword="模板測試"
+           help="---">
+          <t title="自動模板菜單" kword="自動模板">
+            <s id="1" title="源"	ktype="nop"/>
+            <s id="2" title="單位"	ktype="nop"/>
+            <s id="3" title="±Y"	ktype="nop"/>
+            <s id="4" title="±X"	ktype="nop"/>
+            <s id="5" title="創建"	ktype="nop"/>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="1" title="統計信息"	ktype="nop">
+      <t title="模板統計信息菜單" kword="模板統計信息">
+        <s id="0" title="顯示狀態"	ktype="nop"/>
+        <s id="1" title="復位統計信息"	ktype="nop"/>
+        <s id="2" title="透明"	ktype="nop"/>
+        <s id="3" title="清除顯示"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="2" title="設置"	ktype="nop">
+      <t title="設置菜單" kword="設置">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="3" title="自動模式"	ktype="nop">
+      <t title="自动模式菜單"	kword="自動模式">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="4" title="清除模板"	ktype="nop"/>
+  </t>
+</string>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> WaveformMath of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Waveform Math Menu" kword="Waveform Math">
+    <s id="0" title="Function" ktype="nop"/>
+    <s id="1" title="Operator" ktype="text">
+      <u title="Operator">
+        <o title="+ - Add" kword="+"
+           help="---"/>
+        <o title="- - subtract" kword="-"
+           help="---"/>
+        <o title="* - Multiply" kword="*"
+           help="---"/>
+        <o title="/ - Divide" kword="/"
+           help="---"/>
+        <o title="d/dt - Differentiate" kword="d/dt"
+           help="---"/>
+        <o title="∫dt - Integrate" kword="∫dt"
+           help="---"/>
+        <o title="√ - Square Root" kword="√"
+           help="---"/>
+        <o title="FFT - FFT Measurement" kword="FFT"
+           help="---">
+          <t title="Waveform Math Menu" kword="Waveform Math">
+            <s id="4" title="Preset" ktype="nop"/>
+            <s id="5" title="More FFT" ktype="nop">
+              <t title="Waveform Math Menu" kword="Waveform Math">
+                <s id="0" title="Window" ktype="text">
+                  <u title="Window">
+                    <o title="Rectangular" kword="Rectangular"
+                       help="---"/>
+                    <o title="Triangular" kword="Triangular"
+                       help="---"/>
+                    <o title="Hanning" kword="Hanning"
+                       help="---"/>
+                    <o title="Hamming" kword="Hamming"
+                       help="---"/>
+                    <o title="Flat Top" kword="Flat Top"
+                       help="---"/>
+                    <o title="Blackman Harris" kword="Blackman Harris"
+                       help="---"/>
+                    <o title="Kaiser" kword="Kaiser"
+                       help="---"/>
+                  </u>
+                </s>
+                <s id="1" title="Span" ktype="nop"/>
+                <s id="2" title="Center" ktype="nop"/>
+                <s id="4" title="Scale" ktype="nop"/>
+                <s id="5" title="Offset" ktype="nop"/>
+              </t>
+            </s>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="2" title="Source 1" ktype="nop"/>
+    <s id="3" title="Source 2" ktype="nop"/>
+    <s id="4" title="Scale" ktype="nop"/>
+    <s id="5" title="Offset" ktype="nop"/>
+  </t>
+</string>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> Analyze of menu </inf> 
+
+ -->
+
+<string>
+  <t title="分析菜单"	kword="分析">
+    <s id="0" title="功能"	ktype="text">
+      <u title="功能">
+        <o title="触发电平"	kword="触发电平"
+           help="---"/>
+        <o title="测量阈值"	kword="测量阈值"
+           help="---"/>
+        <o title="模板测试" kword="模板测试"
+           help="---">
+          <t title="自动模板菜单" kword="自动模板">
+            <s id="1" title="源"	ktype="nop"/>
+            <s id="2" title="单位"	ktype="nop"/>
+            <s id="3" title="±Y"	ktype="nop"/>
+            <s id="4" title="±X"	ktype="nop"/>
+            <s id="5" title="创建"	ktype="nop"/>
+          </t>
+        </o>
+      </u>
+    </s>
+    <s id="1" title="统计信息"	ktype="nop">
+      <t title="模板统计信息菜单" kword="模板统计信息">
+        <s id="0" title="显示状态"	ktype="nop"/>
+        <s id="1" title="复位统计信息"	ktype="nop"/>
+        <s id="2" title="透明"	ktype="nop"/>
+        <s id="3" title="清除显示"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="2" title="设置"	ktype="nop">
+      <t title="设置菜单" kword="设置">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="3" title="自动模式"	ktype="nop">
+      <t title="自动模式菜单"	kword="自动模式">
+        <s id="0" title="nop"	ktype="nop"/>
+        <s id="1" title="nop"	ktype="nop"/>
+      </t>
+    </s>
+    <s id="4" title="清除模板"	ktype="nop"/>
+  </t>
+</string>

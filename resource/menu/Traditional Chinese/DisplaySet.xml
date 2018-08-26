@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 
+ <inf> DisplaySet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="顯示菜單"	kword="顯示">
+    <s id="0" title="余輝"	      ktype="nop"/>
+    <s id="1" title="捕獲\n波形"	ktype="nop"/>
+    <s id="2" title="清除\n余輝"	  ktype="nop"/>
+    <s id="3" title="清除\n顯示"  ktype="nop"/>
+    <s id="4" title="網格亮度"	  ktype="nop"/>
+  </t>
+</string>

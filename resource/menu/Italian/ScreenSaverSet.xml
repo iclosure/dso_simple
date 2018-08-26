@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ <inf> ScreenSaverSet of menu </inf> 
+
+ -->
+
+<string>
+  <t title="Screen Saver Menu" kword="Screen Saver">
+    <s id="0" title="Saver" ktype="nop"/>
+    <s id="1" title="Wait" ktype="nop"/>
+    <s id="2" title="Preview" ktype="nop"/>
+  </t>
+</string>
